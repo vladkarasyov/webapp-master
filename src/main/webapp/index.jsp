@@ -12,7 +12,7 @@
            class="img-responsive center-block" style="width:250px"/>
       <h1 class="text-center">My job is done with jenkins</h1>
       <h2 class="text-center">Now you are with Narendra</h2>
-      <h2 class="text-centre">Vladislav Karasyov</h2>
+      <h2 class="text-center">Vladislav Karasyov</h2>
   </div>
 </body>
 </html>
